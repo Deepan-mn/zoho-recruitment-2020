@@ -16,7 +16,7 @@ void main()
                 printf("%d ",k);
 
             }
-            while
+            while(i%2!=1)
             {
                 printf("%d ",k);
                 k--;
